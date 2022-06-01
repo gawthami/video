@@ -32,7 +32,7 @@ class Display extends Component {
 }
 function App() {
   return (
-    <div id="app" className="App">
+    <div className="App">
       <header className="App-header">
       <Sample/>
 
